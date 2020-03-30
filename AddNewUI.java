@@ -36,6 +36,7 @@ public class AddNewUI extends PageBean implements Serializable
     private CompanyUI companyUI;
     private String someNewPropertyFromZlatan;
 
+
     // ------------------------------------------------------------------------
     // constructors & initialization
     // ------------------------------------------------------------------------
