@@ -63,4 +63,9 @@ public class EmployeeUI extends PageBean implements Serializable
     // ------------------------------------------------------------------------
     // private usage
     // ------------------------------------------------------------------------
+
+    newMethodFromZlatan()
+    {
+        //no body ...
+    }
 }
